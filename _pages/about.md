@@ -10,7 +10,7 @@ redirect_from:
 #### About Me
 
 I am a second year PhD student at the University of Warwick. The title of my thesis is:
-> Synthetic Diagnostics for Laer-Fusion simulations
+> Synthetic Diagnostics for Laser-Fusion simulations
 
 My supervisors are Professor Tony Arber and Dr Keith Bennett.
 
