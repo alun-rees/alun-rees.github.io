@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#### About Me
 
 I am a second year PhD student at the University of Warwick. The title of my thesis is:
 > Synthetic Diagnostics for Laser-Fusion simulations
