@@ -17,14 +17,26 @@ Education
 
 Work experience
 ======
-*  April - September 2018: Graduate Data Scientist
+* October 2018 - Current: 1st year Mathematics Tutor 
+  * Physics department, University of Warwick
+  * Duties included: 
+    * Teaching 2 tutorials a week 
+    * Marking weekly problems
+  * Supervisor: Dr Tom Hase
+
+* April - September 2018: Graduate Data Scientist
   * Admiral Car Insurance
   * Duties included: Developing models for Fraud detection
   * Supervisor: Alistair Hall
 
 * September 2017 - August 2018: Tutor
   * Tutorful, Cardiff
-  * Subjects taught: Physics, Mathematics, GCSE Science, IT, and Welsh
+  * Subjects taught: 
+    * Physics 
+    * Mathematics 
+    * GCSE Science
+    *  IT
+    *  Welsh
   * Supervisor: Self-employed (references available)
   
 Skills
