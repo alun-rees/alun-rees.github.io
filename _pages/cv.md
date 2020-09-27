@@ -11,30 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhys in Physics, Durham University, 2016
+* MSc in Fusion Energy, University of York, 2017
+* Ph.D in Fusion Energy, University of Warwick, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  April - September 2018: Graduate Data Scientist
+  * Admiral Car Insurance
+  * Duties included: Developing models for Fraud detection
+  * Supervisor: Alistair Hall
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2017 - August 2018: Tutor
+  * Tutorful, Cardiff
+  * Subjects taught: Physics, Mathematics, GCSE Science, IT, and Welsh
+  * Supervisor: Self-employed (references available)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding
+  * Python 
+  * FORTRAN 
+  * Matlab
+  * C
+  * Bash
+* HPC Systems 
+  * Using Warwick University's orac and tinis clusters
+* Running Plasma Simulations 
+  * Odin
+  * EPOCH 
+* Computing and Hardware maintenance
+* Languages
+  * English
+  * Welsh
+  * German 
+  * Spanish (Basic)
+
 
 Publications
 ======
