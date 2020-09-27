@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "alun.rees@warwick.ac.uk"
   generatedFields:
     date:
       type               : "date"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alun Rees"
   avatar           : "profile.png"
-  bio              : "2nd Year PhD Student"
+  bio              : "3rd Year PhD Student"
   location         : "University of Warwick"
   employer         : #"https://warwick.ac.uk/fac/sci/physics/research/cfsa/research/"
   pubmed           : 
