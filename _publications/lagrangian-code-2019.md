@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/lagrangian-code-2019
 excerpt: 'This paper is about how hydrodynamic codes are written, as well as my own attempt at writing a 1D version.'
 date: 2019-01-01
-venue: 'University of Warwick'
+venue: 'Unpublished'
 paperurl: 'http://alun-rees.github.io/files/Hydrocode.pdf'
 citation: 'Rees, Alun. (2019). &quot;A 1D Lagrangian Hydrodynamics Code .&quot; <i>Unpublished</i>. (1).     '
 ---
@@ -13,4 +13,4 @@ Hydrodynamic simulation codes play an important role in the study of Plasma phys
 
 [Download paper here](http://alun-rees.github.io/files/Hydrocode.pdf)
 
-Recommended citation: Rees, Alun. (2019). "A 1D Lagrangian Code" <i>Unpublished</i>. 1(1).
+Recommended citation: Rees, Alun. (2019). "A 1D Lagrangian Code" <i>Unpublished</i>. 1(1).  
