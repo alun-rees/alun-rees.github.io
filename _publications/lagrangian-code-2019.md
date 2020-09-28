@@ -1,7 +1,7 @@
 ---
 title: "Hydrodynamics Code"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/lagrangian-code-2019
 excerpt: 'This paper is about how hydrodynamic codes are written, as well as my own attempt at writing a 1D version..'
 date: 2019-01-01
 venue: 'University of Warwick'
