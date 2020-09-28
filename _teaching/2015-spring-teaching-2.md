@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Internship"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Simon Langton Grammar School for Boys, Canterbury"
+date: 2014-01-01
 location: "City, Country"
 ---
 
